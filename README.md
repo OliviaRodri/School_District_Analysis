@@ -1,6 +1,6 @@
 # School_District_Analysis
 # Overview
-The purpose of this analysis was to help Maria re-run a school district analysis for a school board. There were some questionable results in the reading and math scores, from the ninth grade at Thomas High School. In the second analysis, those questionable results were excluded and new results emerged from the second analysis. 
+The purpose of this analysis was to help Maria re-run a school district analysis for a school board. There were some questionable results in the reading and math scores, from the ninth grade at Thomas High School. In the second analysis, those questionable results were excluded and the analysis metrics were recalculated. 
 
 
 #
@@ -15,9 +15,9 @@ The district summary analysis shows affects from the first analyis to the second
 - The percentage overall passing went from 65% to 64.9%
 
 
-Provided is an image of the first analysis district summary:
+Provided is an image of the first analysis district summary:****
 
-
+****
 
 
 ![LINE_GRAPH_HERE](Resources\district_summary_original.PNG)
