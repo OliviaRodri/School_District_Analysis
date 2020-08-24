@@ -1,6 +1,6 @@
 # School_District_Analysis
 # Overview
-The purpose of this data analysis was to help Maria re-run a school district analysis for a school board. There were some questionable results in the reading and math scores, from the ninth grade at Thomas High School. In the second analysis, those questionable results were excluded and the analysis metrics were recalculated. 
+The purpose of this data analysis was to help Maria re-run a school district analysis for a school board. There were some questionable results in the reading and math scores from the ninth grade at Thomas High School. In the second analysis, those questionable results were excluded and the analysis metrics were recalculated. 
 
 
 #
@@ -16,13 +16,13 @@ The district summary analysis shows the affects from the first analysis to the s
 - The percentage overall passing went from 65.2% to 64.9%
 
 
-  - Provided is an image of the first analysis district summary:
+   Provided is an image of the first analysis district summary:
 
    ![SCHOOL_Data_FRAME](Resources\district_summary_original.PNG)
 
 
 
-  - Provided is an image of the second analysis district summary:
+   Provided is an image of the second analysis district summary:
 
 
    ![SCHOOL_Data_FRAME](Resources\district_summary_challenge.PNG)
@@ -39,22 +39,26 @@ The school summary was affected only with results in Thomas High School's averag
  - Percentage passing reading from 97.31% to 97.02%
  - Percentage overall passing from 90.95% to 90.63%
 
--Provided image from first analysis
+Provided image from first analysis:
 
   
 ![SCHOOL_Data_FRAME](Resources\school_summary_original.PNG)
 
-   -Provided image from second analysis
+
+
+   Provided image from second analysis:
+
+
 
   ![SCHOOL_Data_FRAME](Resources\school_summary_challenge.PNG)
 
 
 In removing Thomas High School's ninth graders' math and reading scores, it's performance relative to the other schools had no affect. Images from first analysis to second analysis, shows that Thomas High School's overall performance remained in second place.
 
- -Provided image of the first analysis top five schools:
+ Provided image of the first analysis top five schools:
 ![SCHOOL_Data_FRAME](Resources\thomas_perform_original.PNG)
 
--Provided image of the second analysis top five schools:
+Provided image of the second analysis top five schools:
 ![SCHOOL_Data_FRAME](Resources\thomas_perform_challenge.PNG)
 
 The ninth grades were removed while tenth through twelve stayed the same. In removing the ninth grades, the affects are as follows:
@@ -63,7 +67,7 @@ The ninth grades were removed while tenth through twelve stayed the same. In rem
  
 - Scores by school spending had an affect in the averages of the $630-$644 spending range. The difference between the first and second analysis is less than one tenth of a percent for all columns as shown below:  
 
-  - Provided image of  first analysis
+   Provided image of  first analysis:
 
 
   ![SCHOOL_Data_FRAME](Resources\spend_original_challenge.PNG)
@@ -72,12 +76,13 @@ The ninth grades were removed while tenth through twelve stayed the same. In rem
 
 - Scores by school size had an affect in the averages of the school size range of 1000 - 2000 and shows a change in one tenth of a percent. 
 
-    - Provided image of first and second analysis
+    Provided image of first and second analysis:
    
    ![SCHOOL_Data_FRAME](Resources\size_original_challenge.PNG)
 
 - Scores by school type had an affect in the total averages of Charter schools as shown below with a less than one tenth of a percent change. 
-    - Provided image of first and second analysis
+ 
+   Provided image of first and second analysis:
 
     ![SCHOOL_Data_FRAME](Resources\type_original_challenge.PNG) 
     
