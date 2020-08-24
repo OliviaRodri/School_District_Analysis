@@ -46,16 +46,16 @@ The school summary was affected only with results in Thomas High School's averag
 
    -Provided image from second analysis
 
-  ![LINE_GRAPH_HERE](Resources\school_summary_challenge.PNG)
+  ![SCHOOL_Data_FRAME](Resources\school_summary_challenge.PNG)
 
 
 In removing Thomas High School's ninth graders' math and reading scores, it's performance relative to the other schools had no affect. Images from first analysis to second analysis, shows that Thomas High School's overall performance remained in second place.
 
  -Provided image of the first analysis top five schools:
-![LINE_GRAPH_HERE](Resources\thomas_perform_original.PNG)
+![SCHOOL_Data_FRAME](Resources\thomas_perform_original.PNG)
 
 -Provided image of the second analysis top five schools:
-![LINE_GRAPH_HERE](Resources\thomas_perform_challenge.PNG)
+![SCHOOL_Data_FRAME](Resources\thomas_perform_challenge.PNG)
 
 The ninth grades were removed while tenth through twelve stayed the same. In removing the ninth grades, the affects are as follows:
 
@@ -66,7 +66,7 @@ The ninth grades were removed while tenth through twelve stayed the same. In rem
   - Provided image of  first analysis
 
 
-  ![LINE_GRAPH_HERE](Resources\spend_original_challenge.PNG)
+  ![SCHOOL_Data_FRAME](Resources\spend_original_challenge.PNG)
 
 
 
@@ -74,12 +74,12 @@ The ninth grades were removed while tenth through twelve stayed the same. In rem
 
     - Provided image of first and second analysis
    
-   ![LINE_GRAPH_HERE](Resources\size_original_challenge.PNG)
+   ![SCHOOL_Data_FRAME](Resources\size_original_challenge.PNG)
 
 - Scores by school type had an affect in the total averages of Charter schools as shown below with a less than one tenth of a percent change. 
     - Provided image of first and second analysis
 
-    ![LINE_GRAPH_HERE](Resources\type_original_challenge.PNG) 
+    ![SCHOOL_Data_FRAME](Resources\type_original_challenge.PNG) 
     
 
 # Summary
