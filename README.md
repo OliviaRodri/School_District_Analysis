@@ -18,14 +18,14 @@ The district summary analysis shows the affects from the first analysis to the s
 
    Provided is an image of the first analysis district summary:
 
-![SCHOOL_Data_FRAME](Resources\district_summary_original.PNG)
+![SCHOOL_FRAME](Resources\district_summary_original.PNG)
 
 
 
    Provided is an image of the second analysis district summary:
 
 
-![SCHOOL_Data_FRAME](Resources\district_summary_challenge.PNG)
+![SCHOOL_Data](Resources\district_summary_challenge.PNG)
 
 
 
@@ -42,7 +42,7 @@ The school summary was affected only with results in Thomas High School's averag
 Provided image from first analysis:
 
   
-![SCHOOL_Data_FRAME](Resources\school_summary_original.PNG)
+![Data_FRAME](Resources\school_summary_original.PNG)
 
 
 
@@ -50,16 +50,16 @@ Provided image from first analysis:
 
 
 
-![SCHOOL_Data_FRAME](Resources\school_summary_challenge.PNG)
+![SC_FRAME](Resources\school_summary_challenge.PNG)
 
 
 In removing Thomas High School's ninth graders' math and reading scores, it's performance relative to the other schools had no affect. Images from first analysis to second analysis, shows that Thomas High School's overall performance remained in second place.
 
  Provided image of the first analysis top five schools:
-![SCHOOL_Data_FRAME](Resources\thomas_perform_original.PNG)
+![SCHL_D_FRAME](Resources\thomas_perform_original.PNG)
 
 Provided image of the second analysis top five schools:
-![SCHOOL_Data_FRAME](Resources\thomas_perform_challenge.PNG)
+![L_T_FRAME](Resources\thomas_perform_challenge.PNG)
 
 The ninth grades were removed while tenth through twelve stayed the same. In removing the ninth grades, the affects are as follows:
 
@@ -70,7 +70,7 @@ The ninth grades were removed while tenth through twelve stayed the same. In rem
    Provided image of  first analysis:
 
 
-![SCHOOL_Data_FRAME](Resources\spend_original_challenge.PNG)
+![SCL_A_FRAME](Resources\spend_original_challenge.PNG)
 
 
 
@@ -78,13 +78,13 @@ The ninth grades were removed while tenth through twelve stayed the same. In rem
 
     Provided image of first and second analysis:
    
-![SCHOOL_Data_FRAME](Resources\size_original_challenge.PNG)
+![SC_Da_FR](Resources\size_original_challenge.PNG)
 
 - Scores by school type had an affect in the total averages of Charter schools as shown below with a less than one tenth of a percent change. 
  
    Provided image of first and second analysis:
 
-![SCHOOL_Data_FRAME](Resources\type_original_challenge.PNG) 
+![H_D_ME](Resources\type_original_challenge.PNG) 
     
 
 # Summary
